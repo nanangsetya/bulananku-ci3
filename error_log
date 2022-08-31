@@ -1,0 +1,7 @@
+[23-Sep-2019 09:31:38 ASIA/JAKARTA] PHP Fatal error:  Call to a member function num_rows() on array in /home/them5457/public_html/proyek/bulananku/application/controllers/Auth.php on line 52
+[07-Oct-2019 10:10:29 ASIA/JAKARTA] PHP Fatal error:  Call to a member function result_array() on array in /home/them5457/public_html/proyek/bulananku/application/modules/User/views/report.php on line 105
+[07-Oct-2019 10:14:58 ASIA/JAKARTA] PHP Fatal error:  Call to a member function result_array() on array in /home/them5457/public_html/proyek/bulananku/application/modules/User/views/report.php on line 105
+[30-Mar-2020 15:00:55 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/them5457/public_html/bulananku/system/libraries/Session/drivers/Session_files_driver.php on line 418
+[30-Mar-2020 15:01:37 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/them5457/public_html/bulananku/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[30-Mar-2020 15:02:07 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/them5457/public_html/bulananku/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[15-Aug-2020 03:17:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/them5457/public_html/bulananku/system/libraries/Session/drivers/Session_files_driver.php on line 212
